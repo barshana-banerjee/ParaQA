@@ -9,4 +9,13 @@ Alongside the dataset, we provide the framework for generating multiple paraphra
 The dataset is under [Attribution 4.0 International (CC BY 4.0)](LICENSE)
 
 ## Cite
-Coming Soon!
+```bash
+@inproceedings{
+    kacupaj2021paraqa,
+    title={Para{\{}QA{\}}: A Question Answering Dataset with Paraphrase Responses for Single-Turn Conversation},
+    author={Endri Kacupaj and Barshana Banerjee and Kuldeep Singh and Jens Lehmann},
+    booktitle={Eighteenth Extended Semantic Web Conference - Resources Track},
+    year={2021},
+    url={https://openreview.net/forum?id=_GmNcCEAea3}
+}
+```
